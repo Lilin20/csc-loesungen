@@ -1,7 +1,3 @@
-# Bei dieser Aufgabe ist es wichtig NICHT mit Boolean-Operatoren zu arbeiten (Erklärung kommt später).
-# Ebenso sollen hier keine weiteren Boolean-Überprüfungen verwendet werden.
-# Diese beiden Sachen erleichtern diese Aufgabe zwar enorm aber hier wird getestet ob man das verschachteln sinvoll nutzen kann.
-
 age = int(input())
 
 if age >= 0:
