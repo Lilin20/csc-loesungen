@@ -7,3 +7,5 @@ x = x + x	# x = 20
 x = x - 5	# x = 15
 
 # Der Wert für x Beträgt: 15.
+
+print(x) # Diese Zeile gibt bei bei ausführung des Skripts den Wert von x wieder.
