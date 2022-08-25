@@ -1,6 +1,6 @@
  # CS-Circles Lösungen
  
- In diesem Repo findest du die Lösungen von allen Aufgaben von CS-Circles. Alle Lösungen werden erklärt für das nachvollziehen der Lösung.
+ In diesem Repo findest du die Lösungen von allen Aufgaben von CS-Circles.
  
  # Fehler
  
